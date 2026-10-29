@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-builder",
+  "version": "0.1.0",
+  "description": "The Builder role (`builder`) as a RasaOS role module. To turn an item into working code in the shared worktree"
+}

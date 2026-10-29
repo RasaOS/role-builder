@@ -1,0 +1,22 @@
+{
+  "id": "builder",
+  "name": "Builder",
+  "summary": "To turn an item into working code in the shared worktree",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "builder",
+    "writes": true,
+    "stages": [
+      "develop"
+    ],
+    "when": "to turn an item into working code in the shared worktree"
+  }
+}
